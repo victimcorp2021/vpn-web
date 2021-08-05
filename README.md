@@ -1,2 +1,2 @@
 # vpn-web
-vpn web dashboard dockerisation
+vpn web dashboard dockerization
